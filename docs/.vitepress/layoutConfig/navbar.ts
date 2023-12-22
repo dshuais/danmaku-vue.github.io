@@ -2,14 +2,14 @@
  * @Author: dushuai
  * @Date: 2023-12-22 14:41:05
  * @LastEditors: dushuai
- * @LastEditTime: 2023-12-22 18:29:57
+ * @LastEditTime: 2023-12-22 21:20:54
  * @description: navbar配置
  */
 import { DefaultTheme } from 'vitepress'
 
 export const nav: DefaultTheme.NavItem[] = [
   { text: 'Home', link: '/' },
-  { text: '文档', link: '/docs/' },
+  { text: '文档', link: '/docs/001_intro' },
   { text: 'API', link: '/api/' },
   { text: '预览', link: 'https://dshuais.github.io/danmaku-vue/' },
   { text: '更多推荐', link: '/more/' },
