@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /markdown-examples
+      link: /docs/
     - theme: alt
       text: API Examples
-      link: /api-examples
+      link: /api/
 
 features:
   - icon: 💡
@@ -29,7 +29,7 @@ features:
     title: 扩展性强
     details: 根据自己需求添加配置或自定义样式
   
-footer: MIT Licensed | Copyright © 2023-present Danmaku-vue
+# footer: MIT Licensed | Copyright © 2023-present Danmaku-vue
 ---
 
 <!-- 自定义组件 -->
