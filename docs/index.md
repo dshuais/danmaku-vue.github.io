@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /docs/001_intro
+      link: /docs/
     - theme: alt
       text: API Examples
       link: /api/

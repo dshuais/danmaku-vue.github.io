@@ -44,6 +44,12 @@ export default defineConfig({
         "https://github.com/dshuais/danmaku-vue.github.io/edit/main/docs/:path",
       text: "Edit this page on GitHub",
     },
+
+    // 配置目录结构
+    outline: {
+      level: [2, 6],
+      label: "目录",
+    },
   },
 
   // 开启最后更改时间
