@@ -22,7 +22,9 @@ Vue `component` 方法的第一个参数为全局组件的名称，第二个参�
 全局注册的组件可以在此应用的任意组件的模板中使用：
 
 ```vue
-<Danmaku ... />
+<template>
+  <Danmaku ... /> // [!code focus]
+</template>
 ```
 
 ## 局部注册
@@ -35,8 +37,10 @@ import Danmaku from 'danmaku-vue' // [!code focus]
 </script>
 
 <template>
-  <Danmaku /> // [!code focus]
+  <Danmaku ... /> // [!code focus]
 </template>
 ```
 
+<br />
 
+以上了解了 `danmaku-vue` 组件的注册方式，接下来我们来学习如何使用组件传递想要的数据。

@@ -25,10 +25,13 @@ export const sidebar: DefaultTheme.Sidebar = {
           link: "/docs/003_register",
         },
         {
-          text: "Props",
-          link: "/docs/004_props",
+          text: "Attributes",
+          link: "/docs/004_attributes",
         },
-        // ...
+        {
+          text: "Solts",
+          link: "/docs/005_solts",
+        },
       ],
     },
   ],

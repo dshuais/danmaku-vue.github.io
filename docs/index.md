@@ -21,13 +21,15 @@ features:
   - icon: 💡
     title: 轻便
     details: 整包大小只有27kb
-    # link: /
+    link: /docs/#轻便
   - icon: 📦
     title: 开箱即用
     details: 引入即用，不需要做其他配置
+    link: /docs/#开箱即用
   - icon: 🎨
     title: 扩展性强
     details: 根据自己需求添加配置或自定义样式
+    link: /docs/#可扩展性强
   
 # footer: MIT Licensed | Copyright © 2023-present Danmaku-vue
 ---
