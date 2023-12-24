@@ -35,4 +35,25 @@ export const sidebar: DefaultTheme.Sidebar = {
       ],
     },
   ],
+  "/api/": [
+    {
+      text: "Methods",
+      items: [
+        {
+          text: "methods",
+          link: "/api/001_methods",
+        },
+      ],
+    },
+    {
+      text: "Events",
+      items: [
+        {
+          text: "events",
+          link: "/api/002_events",
+        },
+      ],
+    },
+  ],
+  "/changelog/": [{ text: "更新日志", link: "/changelog/" }],
 };

@@ -31,7 +31,7 @@ const danmus = ref(['danmu1', 'danmu2', 'danmu3', '...'])
 </template>
 ```
 
-到这里最基础的弹幕效果使用已经完成，你可以通过 `danmus` 属性传入弹幕数据，具体数据格式请参考[弹幕数据格式](#弹幕数据格式)
+到这里最基础的弹幕效果使用已经完成，你可以通过 `danmus` 属性传入弹幕数据，具体数据格式不做限制，详情请参考[demo](https://github.com/dshuais/danmaku-vue/blob/main/src/App.vue)
 
 也可根据文档继续更进一步了解和学习 `danmaku-vue`
 

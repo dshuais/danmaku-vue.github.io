@@ -11,6 +11,7 @@ export const nav: DefaultTheme.NavItem[] = [
   { text: "Home", link: "/" },
   { text: "文档", link: "/docs/" },
   { text: "API", link: "/api/" },
+  { text: "Changelog", link: "/changelog/" },
   { text: "预览", link: "https://dshuais.github.io/danmaku-vue/" },
   { text: "更多推荐", link: "/more/" },
   {

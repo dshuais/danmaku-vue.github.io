@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: API Examples
       link: /api/
+    - theme: alt
+      text: Change log
+      link: /changelog/
 
 features:
   - icon: 💡

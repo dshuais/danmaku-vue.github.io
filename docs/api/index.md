@@ -1,8 +1,3 @@
-<!--
- * @Author: dushuai
- * @Date: 2023-12-22 18:29:29
- * @LastEditors: dushuai
- * @LastEditTime: 2023-12-22 18:29:33
- * @description: 心平气和
--->
-作者正在完善中...
+# API参考
+
+为了满足更多场景的使用，`danmaku-vue` 提供了丰富的API，方便开发者进行自定义配置。

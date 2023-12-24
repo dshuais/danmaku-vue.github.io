@@ -4,7 +4,7 @@
 > 此章节假设你已了解 Vue Slots 的概念及用法。如果你还不了解，请先阅读 [Vue Slots](https://cn.vuejs.org/guide/components/slots.html) 章节。
 :::
 
-## 插槽列表
+## 列表
 
 如果你有自定义弹幕结构与样式的需求，你可以传入任意结构的对象并自己写内部样式。
 <br />
