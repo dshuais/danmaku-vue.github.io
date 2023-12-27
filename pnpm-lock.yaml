@@ -4,12 +4,10 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-dependencies:
+devDependencies:
   danmaku-vue:
     specifier: ^1.0.2
     version: 1.0.2
-
-devDependencies:
   vitepress:
     specifier: 1.0.0-rc.32
     version: 1.0.0-rc.32(search-insights@2.13.0)
@@ -797,7 +795,7 @@ packages:
 
   /danmaku-vue@1.0.2:
     resolution: {integrity: sha512-fS6FBeM/HpABQViAjO0mdzkp5eyxhlgxzY49FhBk1kiGD9wAzvEpkt+egGFqEdpA0gEKGYwwcKXAUlcdcDtb9Q==}
-    dev: false
+    dev: true
 
   /dequal@2.0.3:
     resolution: {integrity: sha512-0je+qPKHEMohvfRTCEo3CrPG6cAzAYgmzKyxRiYSSDkS6eGJdyVJm7WaYA5ECaAD9wLB2T4EEeymA5aFVcYXCA==}

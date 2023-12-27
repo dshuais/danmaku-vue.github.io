@@ -2,7 +2,7 @@
  * @Author: dushuai
  * @Date: 2023-12-22 17:27:20
  * @LastEditors: dushuai
- * @LastEditTime: 2023-12-22 18:26:36
+ * @LastEditTime: 2023-12-27 15:34:55
  * @description: 基础配置
  */
 import { defineConfig } from "vitepress";
@@ -50,6 +50,13 @@ export default defineConfig({
       level: [2, 6],
       label: "目录",
     },
+
+    // 配置algolia
+    algolia: {
+      appId: "SEZUOVJ0WE",
+      apiKey: "86302ba55696b811ec708fcf5dcb2d44",
+      indexName: "danmaku-vue.dshuais",
+    }
   },
 
   // 开启最后更改时间
