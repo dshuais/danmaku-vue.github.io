@@ -2,7 +2,7 @@
  * @Author: dushuai
  * @Date: 2023-12-22 17:27:20
  * @LastEditors: dushuai
- * @LastEditTime: 2023-12-27 16:48:45
+ * @LastEditTime: 2024-01-02 12:00:24
  * @description: 基础配置
  */
 import { defineConfig } from "vitepress";
@@ -67,4 +67,7 @@ export default defineConfig({
 
   // 开启最后更改时间
   lastUpdated: true,
+
+  // 打包配置
+  // base: '/danmaku-vue.github.io/',
 });
