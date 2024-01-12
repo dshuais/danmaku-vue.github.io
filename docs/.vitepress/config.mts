@@ -2,7 +2,7 @@
  * @Author: dushuai
  * @Date: 2023-12-22 17:27:20
  * @LastEditors: dushuai
- * @LastEditTime: 2024-01-02 12:00:24
+ * @LastEditTime: 2024-01-12 15:01:15
  * @description: 基础配置
  */
 import { defineConfig } from "vitepress";
@@ -11,7 +11,7 @@ import { nav, sidebar } from "./layoutConfig";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Danmaku-vue",
-  description: "一款基于vue3的web弹幕交互插件",
+  description: "一款基于Vue 3的web弹幕交互插件",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/avatar.png",

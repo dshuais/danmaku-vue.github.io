@@ -1,11 +1,4 @@
 #!use/bin/env sh
-###
- # @Author: dushuai
- # @Date: 2024-01-02 11:53:53
- # @LastEditors: dushuai
- # @LastEditTime: 2024-01-02 15:19:36
- # @description: 心平气和
-### 
 
 # 确保脚本抛出遇到的错误
 set -e
