@@ -3,10 +3,10 @@
 layout: home
 
 hero:
-  name: "Danmaku-vue"
-  text: "一款基于vue3的web弹幕交互插件"
+  name: 'Danmaku-vue'
+  text: '一款基于Vue 3的web弹幕交互插件'
   tagline: 轻便、开箱即用、可扩展性强
-  image: 
+  image:
     src: /avatar.png
     alt: Danmaku-vue
   actions:
@@ -33,7 +33,6 @@ features:
     title: 扩展性强
     details: 根据自己需求添加配置或自定义样式
     link: /docs/#可扩展性强
-  
 # footer: MIT Licensed | Copyright © 2023-present Danmaku-vue
 ---
 
@@ -43,4 +42,3 @@ import Home from './components/Home.vue'
 </script> -->
 
 <!-- <Home /> -->
-
