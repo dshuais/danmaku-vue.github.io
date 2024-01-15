@@ -53,9 +53,9 @@ export default defineConfig({
 
     // 配置algolia
     algolia: {
-      appId: "SEZUOVJ0WE",
-      apiKey: "86302ba55696b811ec708fcf5dcb2d44",
-      indexName: "danmaku-vue.dshuais",
+      appId: "D8GBY0PW89",
+      apiKey: "460f69674b6e310e86be24526b07c07f",
+      indexName: "danmaku-vue-dshuais",
     },
 
     // 本地搜索
